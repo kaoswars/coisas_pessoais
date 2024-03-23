@@ -1,0 +1,7 @@
+header.bg-gradient-blue{
+    background-image: linear-gradient(355deg, #def1f7 66%, #03457c 100%);
+    padding: 1px;
+    width: 100%; 
+}
+h2.text-header{padding: 0 1em;}
+
